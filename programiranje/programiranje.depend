@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605136421 source:c:\users\cold killer\documents\programiranje\main.c
+	<stdio.h>
+	<stdlib.h>
+
